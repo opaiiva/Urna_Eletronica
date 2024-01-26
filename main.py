@@ -4,7 +4,7 @@ urna = [['Alice', 0], ['Bob', 0], ['Charlie', 0]]
 
 for i in range(4):
     
-    voto = input('Digite o nome do candidato em que deseja votar (Alice, Bob, Charlie): ')
+    voto = input('Digite o nome do candidato em que deseja votar: ')
 
     encontrado = False
     
